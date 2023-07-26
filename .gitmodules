@@ -1,12 +1,12 @@
 [submodule "extern/kokkos"]
 	path = extern/kokkos
-	url = git@github.com:E3SM-Project/kokkos
+	url = https://github.com/E3SM-Project/kokkos.git
 [submodule "extern/yaml-cpp"]
 	path = extern/yaml-cpp
-	url = git@github.com:SNLComputation/yaml-cpp.git
+	url = https://github.com/SNLComputation/yaml-cpp.git
 [submodule "extern/spdlog"]
 	path = extern/spdlog
-	url = git@github.com:gabime/spdlog.git
+	url = https://github.com/gabime/spdlog.git
 [submodule "extern/Catch2"]
 	path = extern/Catch2
-	url = git@github.com:E3SM-Project/Catch2
+	url = https://github.com/E3SM-Project/Catch2.git
